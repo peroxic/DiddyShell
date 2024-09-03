@@ -11,5 +11,5 @@ I'm not gonna tell you how to use this, figure it out your self.
 
 THIS CODE WAS TAKEN FROM ANOTHER PROJECT AND PUT THROUGH AI TO ENHANCE ITS CAPABILITIES, IF YOU ENCOUNTER ANY ISSUES, FIX THEM YOURSELF.
 Projects Taken From:
-https://github.com/deeexcee-io/Deex-Shell
-https://github.com/deeexcee-io/PowerShell-Reverse-Shell-Generator
+* https://github.com/deeexcee-io/Deex-Shell
+* https://github.com/deeexcee-io/PowerShell-Reverse-Shell-Generator
